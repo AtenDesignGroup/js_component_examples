@@ -1,0 +1,7 @@
+type: module
+name: JS Component Example
+description: A React JS component example.
+core_version_requirement: ">=8.8"
+package: JS Component
+dependencies:
+  - js_component

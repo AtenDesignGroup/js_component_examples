@@ -1,0 +1,38 @@
+component_1:
+  label: My React Component
+  description: This is a demo react app.
+  root_id: root
+  libraries:
+    js:
+      /components/react-app/build/static/js/runtime.js: {}
+      /components/react-app/build/static/js/chunk.js: {}
+      /components/react-app/build/static/js/main.js: {}
+    css:
+      theme:
+        /components/react-app/build/static/css/chunk.css: {}
+
+component_2:
+  label: My React Component 2
+  description: This is the second demo react app.
+  root_id: root2
+  libraries:
+    js:
+      /components/react-app-2/build/static/js/runtime.js: {}
+      /components/react-app-2/build/static/js/chunk.js: {}
+      /components/react-app-2/build/static/js/main.js: {}
+    css:
+      theme:
+        /components/react-app/build/static/css/chunk.css: {}
+  settings:
+    collect_user_input:
+      type: 'select'
+      title: 'User Input'
+      description: 'Any data you would like to provide to the react application.'
+      options:
+        option-1: Option 1
+        option-2: Option 2
+      empty_option: '- Select -'
+    collect_user_input2:
+      type: "textfield"
+      title: "Text input"
+      description: "React demo text"

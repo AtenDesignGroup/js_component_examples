@@ -1,0 +1,6 @@
+name: React Demo Theme
+type: theme
+description: Stable Sub-Theme
+package: atend8
+core: 8.x
+base theme: stable
