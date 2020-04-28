@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/themes/custom/react_demo/components/react-app/build/static/css/main.51d1dc56.chunk.css",
-    "main.js": "/themes/custom/react_demo/components/react-app/build/static/js/main.d44d037b.chunk.js",
-    "main.js.map": "/themes/custom/react_demo/components/react-app/build/static/js/main.d44d037b.chunk.js.map",
-    "runtime-main.js": "/themes/custom/react_demo/components/react-app/build/static/js/runtime-main.69cfc358.js",
-    "runtime-main.js.map": "/themes/custom/react_demo/components/react-app/build/static/js/runtime-main.69cfc358.js.map",
-    "static/js/2.df33efd9.chunk.js": "/themes/custom/react_demo/components/react-app/build/static/js/2.df33efd9.chunk.js",
-    "static/js/2.df33efd9.chunk.js.map": "/themes/custom/react_demo/components/react-app/build/static/js/2.df33efd9.chunk.js.map",
-    "index.html": "/themes/custom/react_demo/components/react-app/build/index.html",
-    "precache-manifest.2ace891cec2f0761c22611e1c34b6371.js": "/themes/custom/react_demo/components/react-app/build/precache-manifest.2ace891cec2f0761c22611e1c34b6371.js",
-    "service-worker.js": "/themes/custom/react_demo/components/react-app/build/service-worker.js",
-    "static/css/main.51d1dc56.chunk.css.map": "/themes/custom/react_demo/components/react-app/build/static/css/main.51d1dc56.chunk.css.map",
-    "static/js/2.df33efd9.chunk.js.LICENSE.txt": "/themes/custom/react_demo/components/react-app/build/static/js/2.df33efd9.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/themes/custom/react_demo/components/react-app/build/static/media/logo.5d5d9eef.svg"
+    "main.css": "/themes/custom/custom_theme_example/components/react-app/build/static/css/main.51d1dc56.chunk.css",
+    "main.js": "/themes/custom/custom_theme_example/components/react-app/build/static/js/main.d6b71b6e.chunk.js",
+    "main.js.map": "/themes/custom/custom_theme_example/components/react-app/build/static/js/main.d6b71b6e.chunk.js.map",
+    "runtime-main.js": "/themes/custom/custom_theme_example/components/react-app/build/static/js/runtime-main.6730ff03.js",
+    "runtime-main.js.map": "/themes/custom/custom_theme_example/components/react-app/build/static/js/runtime-main.6730ff03.js.map",
+    "static/js/2.df33efd9.chunk.js": "/themes/custom/custom_theme_example/components/react-app/build/static/js/2.df33efd9.chunk.js",
+    "static/js/2.df33efd9.chunk.js.map": "/themes/custom/custom_theme_example/components/react-app/build/static/js/2.df33efd9.chunk.js.map",
+    "index.html": "/themes/custom/custom_theme_example/components/react-app/build/index.html",
+    "precache-manifest.6fe462838651800e4eae133df3444de7.js": "/themes/custom/custom_theme_example/components/react-app/build/precache-manifest.6fe462838651800e4eae133df3444de7.js",
+    "service-worker.js": "/themes/custom/custom_theme_example/components/react-app/build/service-worker.js",
+    "static/css/main.51d1dc56.chunk.css.map": "/themes/custom/custom_theme_example/components/react-app/build/static/css/main.51d1dc56.chunk.css.map",
+    "static/js/2.df33efd9.chunk.js.LICENSE.txt": "/themes/custom/custom_theme_example/components/react-app/build/static/js/2.df33efd9.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/themes/custom/custom_theme_example/components/react-app/build/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.69cfc358.js",
+    "static/js/runtime-main.6730ff03.js",
     "static/js/2.df33efd9.chunk.js",
     "static/css/main.51d1dc56.chunk.css",
-    "static/js/main.d44d037b.chunk.js"
+    "static/js/main.d6b71b6e.chunk.js"
   ]
 }

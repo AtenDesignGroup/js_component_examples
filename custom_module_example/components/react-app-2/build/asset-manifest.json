@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/modules/custom/js_component_example/components/react-app-2/build/static/css/main.5f361e03.chunk.css",
-    "main.js": "/modules/custom/js_component_example/components/react-app-2/build/static/js/main.f4861f9c.chunk.js",
-    "main.js.map": "/modules/custom/js_component_example/components/react-app-2/build/static/js/main.f4861f9c.chunk.js.map",
-    "runtime-main.js": "/modules/custom/js_component_example/components/react-app-2/build/static/js/runtime-main.5dfd151e.js",
-    "runtime-main.js.map": "/modules/custom/js_component_example/components/react-app-2/build/static/js/runtime-main.5dfd151e.js.map",
-    "static/js/2.a265b842.chunk.js": "/modules/custom/js_component_example/components/react-app-2/build/static/js/2.a265b842.chunk.js",
-    "static/js/2.a265b842.chunk.js.map": "/modules/custom/js_component_example/components/react-app-2/build/static/js/2.a265b842.chunk.js.map",
-    "index.html": "/modules/custom/js_component_example/components/react-app-2/build/index.html",
-    "precache-manifest.706d337f169b47ceae762dc7b6a378a2.js": "/modules/custom/js_component_example/components/react-app-2/build/precache-manifest.706d337f169b47ceae762dc7b6a378a2.js",
-    "service-worker.js": "/modules/custom/js_component_example/components/react-app-2/build/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/modules/custom/js_component_example/components/react-app-2/build/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a265b842.chunk.js.LICENSE.txt": "/modules/custom/js_component_example/components/react-app-2/build/static/js/2.a265b842.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/modules/custom/js_component_example/components/react-app-2/build/static/media/logo.5d5d9eef.svg"
+    "main.css": "/modules/custom/custom_module_example/components/react-app-2/build/static/css/main.5f361e03.chunk.css",
+    "main.js": "/modules/custom/custom_module_example/components/react-app-2/build/static/js/main.0b416336.chunk.js",
+    "main.js.map": "/modules/custom/custom_module_example/components/react-app-2/build/static/js/main.0b416336.chunk.js.map",
+    "runtime-main.js": "/modules/custom/custom_module_example/components/react-app-2/build/static/js/runtime-main.0c9bcf40.js",
+    "runtime-main.js.map": "/modules/custom/custom_module_example/components/react-app-2/build/static/js/runtime-main.0c9bcf40.js.map",
+    "static/js/2.a265b842.chunk.js": "/modules/custom/custom_module_example/components/react-app-2/build/static/js/2.a265b842.chunk.js",
+    "static/js/2.a265b842.chunk.js.map": "/modules/custom/custom_module_example/components/react-app-2/build/static/js/2.a265b842.chunk.js.map",
+    "index.html": "/modules/custom/custom_module_example/components/react-app-2/build/index.html",
+    "precache-manifest.cfffc3ad44664dbefe66ae3d32ac6f4c.js": "/modules/custom/custom_module_example/components/react-app-2/build/precache-manifest.cfffc3ad44664dbefe66ae3d32ac6f4c.js",
+    "service-worker.js": "/modules/custom/custom_module_example/components/react-app-2/build/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/modules/custom/custom_module_example/components/react-app-2/build/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a265b842.chunk.js.LICENSE.txt": "/modules/custom/custom_module_example/components/react-app-2/build/static/js/2.a265b842.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/modules/custom/custom_module_example/components/react-app-2/build/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.5dfd151e.js",
+    "static/js/runtime-main.0c9bcf40.js",
     "static/js/2.a265b842.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.f4861f9c.chunk.js"
+    "static/js/main.0b416336.chunk.js"
   ]
 }
