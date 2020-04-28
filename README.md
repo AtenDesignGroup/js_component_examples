@@ -35,7 +35,7 @@ Located: `/custom_theme_example`
 3. Add the JS Component block to your site. This is commonly done in the blocks manage page, where you can add it to your 'Content' region. After this is done then you can see the frontend of your site where you will now see a simple Create React App demo.
 
 
-### Links & Resources:
+## Links & Resources:
 
 Module page: https://www.drupal.org/project/js_component
 
@@ -43,3 +43,17 @@ The Elements API page: https://api.drupal.org/api/drupal/elements
 - This can be used as a reference for the inputs used for JS Component settings.
 
 Create React App: https://reactjs.org/docs/create-a-new-react-app.html
+
+
+## Contributing
+
+1. Fork it (<https://github.com/AtenDesignGroup/js_component_examples/fork>)
+2. Create your feature branch (`git checkout -b feature/fooBar`)
+3. Commit your changes (`git commit -am 'Add some fooBar'`)
+4. Push to the branch (`git push origin feature/fooBar`)
+5. Create a new Pull Request
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
