@@ -22,7 +22,7 @@ component_2:
       /components/react-app-2/build/static/js/main.js: {}
     css:
       theme:
-        /components/react-app/build/static/css/chunk.css: {}
+        /components/react-app-2/build/static/css/chunk.css: {}
   settings:
     collect_user_input:
       type: 'select'
